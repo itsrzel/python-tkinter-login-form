@@ -13,10 +13,8 @@ This project is a desktop login application developed using Python and Tkinter. 
 - Times New Roman font styling
 
 ## Developer Information
-Full Name: Rezelle Vedeja Filomeno
-
-Course: BS Information Technology (Software Engineering)
-
+Full Name: Rezelle Vedeja Filomeno    
+Course: BS Information Technology (Software Engineering)    
 Subject: CT5
 
 
