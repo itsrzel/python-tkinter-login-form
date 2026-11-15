@@ -14,7 +14,9 @@ This project is a desktop login application developed using Python and Tkinter. 
 
 ## Developer Information
 Full Name: Rezelle Vedeja Filomeno
+
 Course: BS Information Technology (Software Engineering)
+
 Subject: CT5
 
 ## Login Credentials
