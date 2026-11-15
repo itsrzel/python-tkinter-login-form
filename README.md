@@ -13,13 +13,13 @@ This project is a desktop login application developed using Python and Tkinter. 
 - Times New Roman font styling
 
 ## Developer Information
-**Full Name:** Rezelle Vedeja Filomeno
-**Course:** BS Information Technology (Software Engineering)
-**Subject:** CT5
+Full Name: Rezelle Vedeja Filomeno
+Course: BS Information Technology (Software Engineering)
+Subject: CT5
 
 ## Login Credentials
-**Username:** admin
-**Password:** 12345
+Username: admin
+Password: 12345
 
 ## Screenshot
 See the uploaded screenshots in this repository:
